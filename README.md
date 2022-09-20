@@ -11,6 +11,7 @@ Fractures of the cervical spine are potentially serious and devastating if not p
 The area I think is interesting is to find the fraction location of cervical spine fracture. Because in CT image, spine is made of many small bones, which is hard to detect and locate the fracture. Also, rather than broken leg, cure overdue makes a little influence, spine fracture overdue cure can make the patient neurologic deterioration and paralysis after trauma. The importance of rapid diagnosis patient for patients makes me interested in this topic too.
 
 References:
+
 [1] Kaggle competition, https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection/overview/description.
 [2] CT Cervical Spine Fracture Detection Using a Convolutional Neural Network. J.E. Small, P. Osler, A.B. Paul, M. Kunst. American Journal of Neuroradiology Apr 2021, DOI: 10.3174/ajnr.A7094
 [3] D.H. Kim, T. MacKinnon, Artificial intelligence in fracture detection: transfer learning from deep convolutional neural networks, Clinical Radiology, Volume 73, Issue 5, 2018, Pages 439-445, ISSN 0009-9260, https://doi.org/10.1016/j.crad.2017.11.015.
