@@ -17,7 +17,11 @@ The area I think is interesting is to find the fraction location of cervical spi
 References:
 
 [1] Kaggle competition, https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection/overview/description.
+
 [2] CT Cervical Spine Fracture Detection Using a Convolutional Neural Network. J.E. Small, P. Osler, A.B. Paul, M. Kunst. American Journal of Neuroradiology Apr 2021, DOI: 10.3174/ajnr.A7094
+
 [3] D.H. Kim, T. MacKinnon, Artificial intelligence in fracture detection: transfer learning from deep convolutional neural networks, Clinical Radiology, Volume 73, Issue 5, 2018, Pages 439-445, ISSN 0009-9260, https://doi.org/10.1016/j.crad.2017.11.015.
+
 [4] J.E. Small, P. Osler, A.B. Paul and M. Kunst, American Journal of Neuroradiology July 2021, 42 (7) 1341-1347; DOI: https://doi.org/10.3174/ajnr.A7094
+
 [5] Burns JE, Yao J, Muñoz H, Summers RM. Automated Detection, Localization, and Classification of Traumatic Vertebral Body Fractures in the Thoracic and Lumbar Spine at CT. Radiology. 2016 Jan;278(1):64-73. doi: 10.1148/radiol.2015142346. Epub 2015 Jul 14. PMID: 26172532; PMCID: PMC4699497.
