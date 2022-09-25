@@ -2,6 +2,7 @@ Project 1: RSNA 2022 Cervical Spine Fracture Detection
 1. Problem statement: 
 
 Over 1.5 million spine fractures occur annually in the United States alone resulting in over 17,730 spinal cord injuries annually. The most common site of spine fracture is the cervical spine. There has been a rise in the incidence of spinal fractures in the elderly and in this population, fractures can be more difficult to detect on imaging due to superimposed degenerative disease and osteoporosis. Imaging diagnosis of adult spine fractures is now almost exclusively performed with computed tomography (CT) instead of radiographs (x-rays). Quickly detecting and determining the location of any vertebral fractures is essential to prevent neurologic deterioration and paralysis after trauma. This project is about detecting cervical spine fracture, which is using artificial intelligence technology to detect the cervical whether fractured and the location of fraction. Using AI could make quick conclusion details of cervical spine fracture and prevent neurologic deterioration and paralysis.
+
 ![image](https://user-images.githubusercontent.com/113222563/192161942-f0c69602-c0f0-44da-b976-8d1a7a5ec82f.png)
 
 
