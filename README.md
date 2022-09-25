@@ -11,6 +11,7 @@ Over 1.5 million spine fractures occur annually in the United States alone resul
 Fractures of the cervical spine are potentially serious and devastating if not properly treated. Cervical spine injury can be associated with high morbidity and mortality, and a delay in diagnosis of an unstable fracture leading to inadequate immobilization may result in a catastrophic decline in neurologic function with devastating consequences. Clearing the cervical spine through imaging is therefore a critical first step in the evaluation of patients with trauma, and multidetector CT has emerged as the standard of care imaging technique to evaluate cervical spine trauma. Morbidity and mortality in patients with cervical spine injury can be reduced through rapid diagnosis and intervention. This can be used in clinical diagnosis of cervical sping detection, helps the doctor cure the patient timely.
 
 3. An area interesting:
+
 The area I think is interesting is to find the fraction location of cervical spine fracture. Because in CT image, spine is made of many small bones, which is hard to detect and locate the fracture. Also, rather than broken leg, cure overdue makes a little influence, spine fracture overdue cure can make the patient neurologic deterioration and paralysis after trauma. The importance of rapid diagnosis patient for patients makes me interested in this topic too.
 
 References:
